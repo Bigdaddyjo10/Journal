@@ -1,9 +1,9 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> | Inheritance is giving data to a child object. The child uses that data to do things with |
 
-02. What is the `Singleton` design pattern?
+1.  What is the `Singleton` design pattern?
 
 > | The Singleton design pattern ensures that a class has only one instance, and it provides a way to access that instance from anywhere in the code|
 
